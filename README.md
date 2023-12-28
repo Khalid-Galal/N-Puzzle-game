@@ -1,4 +1,4 @@
- **# N-Puzzle Solver: C++, Priority Queues, Vectors, and Efficient Array Allocation**
+ ## N-Puzzle Solver: C++, Priority Queues, Vectors, and Efficient Array Allocation
 
 **Untangle the tiles and put them back in order!** 
 
